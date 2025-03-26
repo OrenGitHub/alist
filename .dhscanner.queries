@@ -1,1 +1,1 @@
-user_input_might_reach_function('gin.Context.Writer.WriteString').
+user_input_might_reach_function('github.com/gin-gonic/gin.Context.Writer.WriteString').
