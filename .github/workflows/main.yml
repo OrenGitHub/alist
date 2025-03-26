@@ -21,7 +21,7 @@ jobs:
       - name: checkout specific tag
         uses: actions/checkout@v4
         with:
-          ref: 'v3.28.0.dhscanner'
+          ref: 'v3.28.0.dhscanner.updated'
 
       - name: send healthcheck to dhscanner
         run: |
